@@ -1,6 +1,6 @@
-# arvis-home
+# Arvis.com
 
-Intro website for Arvis
+Arvis static website (WIP)
 
 (Under construction)
 
@@ -12,4 +12,4 @@ Intro website for Arvis
 
 ## Template
 
-Built with [Slides](https://designmodo.com/slides/)
+Built with [slides](https://designmodo.com/slides/)
